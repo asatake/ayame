@@ -1,0 +1,12 @@
+<div id="messages" class="container">
+</div>
+
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10">
+                <input class="from-channel" id="message-input" placeholder="ニンニン!" type="text" value=""/>
+            </div>
+        </div>
+    </div>
+</div>
